@@ -1,8 +1,8 @@
-### Vorlagen und Templates
+# Vorlagen und Templates
 ## Latex Template für Diplomarbeiten
 [diploma-thesis-template](https://github.com/htl-anichstrasse/diploma-thesis-template)
 
-### Diplomarbeiten
+# Diplomarbeiten
 
 ## 2021
 
