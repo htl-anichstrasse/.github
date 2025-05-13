@@ -28,5 +28,5 @@
 
 # Projekte
 
-- [htl-catcher](https://github.com/htl-anichstrasse/aircraft-tracker): Flappy Bird für Android
+- [htl-catcher](https://github.com/htl-anichstrasse/htl-catcher): Flappy Bird für Android
   - Umsetzung in Java
