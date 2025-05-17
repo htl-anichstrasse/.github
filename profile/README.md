@@ -3,13 +3,13 @@
 [diploma-thesis-template](https://github.com/htl-anichstrasse/diploma-thesis-template)
 
 # Diplomarbeiten
-## 2024
+## 2024/2025
 
 - SmartSensorNetz: MQTT-gesteuertes Netz zur Messung von Feinstaubwerten
   - [API_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_API) 
   - [MQTT_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_MQTT_SubClient)
 
-## 2021
+## 2021/2022
 
 - [Skater App](https://github.com/htl-anichstrasse/skatebuddy): Es können Skateparks in der Nähe gefunden, bewertet und neu hinzugefügt werden.
   - Client: React Native
