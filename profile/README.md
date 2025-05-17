@@ -13,6 +13,14 @@
   - [API_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_API) 
   - [MQTT_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_MQTT_SubClient)
 
+
+## 2022/2023
+
+- Portiertung der Lernsoftware Java Hamster als Web-Applikation
+  - [Backend](https://github.com/htl-anichstrasse/java_hamster_BackendSpring)
+    - Spring Boot
+  - [Frontend](https://github.com/htl-anichstrasse/java_hamster_FrontendVue)
+    - Vue.js
 ## 2021/2022
 
 - [Skater App](https://github.com/htl-anichstrasse/skatebuddy): Es können Skateparks in der Nähe gefunden, bewertet und neu hinzugefügt werden.
