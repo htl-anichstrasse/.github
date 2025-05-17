@@ -8,6 +8,7 @@
 - [SAIPiA](https://github.com/htl-anichstrasse/SAIPiA): Self-sufficient Artificial Intelligent Raspberry Pi Assistant
   - Server, AI: Python
   - Client: Vue.js
+    
 - SmartSensorNetz: MQTT-gesteuertes Netz zur Messung von Feinstaubwerten
   - [API_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_API) 
   - [MQTT_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_MQTT_SubClient)
