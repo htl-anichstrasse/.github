@@ -21,6 +21,7 @@
     - Spring Boot
   - [Frontend](https://github.com/htl-anichstrasse/java_hamster_FrontendVue)
     - Vue.js
+
 ## 2021/2022
 
 - [Skater App](https://github.com/htl-anichstrasse/skatebuddy): Es können Skateparks in der Nähe gefunden, bewertet und neu hinzugefügt werden.
@@ -35,9 +36,12 @@
   - Client: Flutter
   - Server: Rust
   
+## 2020/2021
+
 - [sokka](https://github.com/htl-anichstrasse/sokka): Bestellsystem für Restaurants
-  - Client: Flutter
-  - Server: Javascript (Express)
+  - Mobile: Flutter
+  - Web: React.js
+  - Server: TypeScript (Express)
 
 # Projekte
 
