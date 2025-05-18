@@ -38,12 +38,13 @@
 - [sokka](https://github.com/htl-anichstrasse/sokka): Bestellsystem für Restaurants
   - Client: Flutter
   - Server: Javascript (Express)
- 
-- [aircraft-tracker](https://github.com/htl-anichstrasse/aircraft-tracker): visualises the coverage area of a single antenna receiving data from air traffic
-  - Client: Javascript (mit SASS)
-  - Server: Javascript (Express)  
 
 # Projekte
 
 - [htl-catcher](https://github.com/htl-anichstrasse/htl-catcher): Flappy Bird für Android
   - Umsetzung in Java
+
+- [aircraft-tracker](https://github.com/htl-anichstrasse/aircraft-tracker): visualises the coverage area of a single antenna receiving data from air traffic
+  - Client: Javascript (mit SASS)
+  - Server: Javascript (Express)
+  
