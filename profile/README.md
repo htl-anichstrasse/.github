@@ -10,7 +10,8 @@
   - Client: Vue.js
     
 - SmartSensorNetz: MQTT-gesteuertes Netz zur Messung von Feinstaubwerten
-  - [API_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_API) 
+  - [API_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_API)
+  - [Vue-Client](https://github.com/htl-anichstrasse/smart_sensort_netz_vue)
   - [MQTT_SubClient](https://github.com/htl-anichstrasse/smart_sensort_netz_MQTT_SubClient)
 
 
