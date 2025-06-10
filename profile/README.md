@@ -4,7 +4,7 @@
 
 # Diplomarbeiten
 ## 2024/2025
-- [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp)
+- [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp): Eine Interaktive Karte aller Skigebiete der Welt
   - Backend: Postgres mit Postgis, Flask
   - Frontend: Vue.js, Mapbox
   - [Hier das Ergebnis](https://snownav.at/)
