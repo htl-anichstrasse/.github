@@ -4,7 +4,10 @@
 
 # Diplomarbeiten
 ## 2024/2025
-
+- [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp)
+  - Backend: Postgres mit Postgis, Flask
+  - Frontend: Vue.js
+    
 - [SAIPiA](https://github.com/htl-anichstrasse/SAIPiA): Self-sufficient Artificial Intelligent Raspberry Pi Assistant
   - Server, AI: Python
   - Client: Vue.js
