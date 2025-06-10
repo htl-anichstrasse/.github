@@ -6,7 +6,8 @@
 ## 2024/2025
 - [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp)
   - Backend: Postgres mit Postgis, Flask
-  - Frontend: Vue.js
+  - Frontend: Vue.js, Mapbox
+  - [Hier das Ergebnis](https://snownav.at/)
     
 - [SAIPiA](https://github.com/htl-anichstrasse/SAIPiA): Self-sufficient Artificial Intelligent Raspberry Pi Assistant
   - Server, AI: Python
