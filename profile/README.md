@@ -5,7 +5,7 @@
 # Diplomarbeiten
 ## 2024/2025
 - [LUMI](https://github.com/htl-anichstrasse/LUMI): KI-basierter Smart Assistant für Mobile Geräte
-- [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp): Eine Interaktive Karte aller Skigebiete der Welt
+- [SkiSport App](https://github.com/htl-anichstrasse/2024_SkiApp): *private!!!* Eine Interaktive Karte aller Skigebiete der Welt
   - Backend: Postgres mit Postgis, Flask
   - Frontend: Vue.js, Mapbox
   - [Hier das Ergebnis](https://snownav.at/)
